@@ -1,23 +1,21 @@
 # 🌍 Global Warming Forecasting Tool
 
 ## 📌 Overview
-This project is a climate forecasting system that analyzes historical temperature data and predicts future trends using time-series models like ARIMA and Prophet. It also provides an interactive dashboard for visualization and analysis.
+This project is a climate forecasting system that analyzes historical temperature data and predicts future trends using time-series models.
 
 ---
 
 ## 🚀 Features
-
-- 📊 Data visualization (line chart, histogram, heatmap)
-- 🤖 Forecasting using ARIMA and Prophet
-- 📉 Model evaluation using MAE and RMSE
-- 🔁 Scenario analysis (CO₂, CH₄, N₂O changes)
-- 📥 Upload and analyze custom datasets
-- 📈 Interactive dashboard using Streamlit
+- Climate trend visualization (line chart, histogram, heatmap)
+- Forecasting using ARIMA and Prophet models
+- Model evaluation using MAE and RMSE
+- Scenario analysis based on greenhouse gases
+- Upload and analyze custom datasets
+- Interactive dashboard using Streamlit
 
 ---
 
 ## 🛠️ Tech Stack
-
 - Python  
 - Streamlit  
 - Pandas, NumPy  
@@ -28,10 +26,22 @@ This project is a climate forecasting system that analyzes historical temperatur
 
 ---
 
-## ▶️ How to Run the Project
+## 📊 Dataset
+The project uses historical climate datasets (NASA / NOAA) containing temperature anomaly and greenhouse gas data.
 
-### 1. Clone the repository
+---
 
-```bash
-git clone https://github.com/your-username/global-warming-forecasting-tool.git
-cd global-warming-forecasting-tool
+## 📈 Key Highlights
+- Compared multiple forecasting models
+- Implemented evaluation metrics for accuracy
+- Built a fully interactive analytics dashboard
+
+---
+
+## 🌱 SDG Alignment
+**SDG 13 – Climate Action**
+
+---
+
+## 👨‍💻 Author
+- Sujal Arora  
